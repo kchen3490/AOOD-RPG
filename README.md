@@ -6,4 +6,4 @@ It is a mouse-based clicking application we created for our Java-based computer 
 
 To run the application, please visit https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html and download the Java SE Development Kit 18.0.1.1 on whichever OS you're on.
 
-Once you have the JDK downloaded, we hope you enjoy!
+Once you have the JDK, Resources folder, and the exe file downloaded, we hope you enjoy!
