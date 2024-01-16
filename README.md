@@ -10,6 +10,7 @@ Once you have the JDK, Resources folder, and the exe file downloaded, run the ex
 
 
 # The Menu
+- Click on one of the quest buttons to attempt them
 ![image](https://github.com/kchen3490/AOOD-RPG/assets/78284992/b0f66ca6-5aec-4421-bc5e-8aa777735094)
 
 # Quest 1 and its rules
