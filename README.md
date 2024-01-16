@@ -6,7 +6,7 @@ We utilized the Java Swing library to create a mouse-based clicking application 
 
 To run the application, please visit https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html and download the Java SE Development Kit 18.0.1.1 on whichever OS you're on.
 
-Once you have the JDK, Resources folder, and the exe file downloaded, we hope you enjoy!
+Once you have the JDK, Resources folder, and the exe file downloaded, run the exe file, and we hope you enjoy!
 
 
 # The Menu
