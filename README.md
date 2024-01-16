@@ -41,3 +41,4 @@ Once you have the JDK, Resources folder, and the exe file downloaded, we hope yo
 # The Boss Fight
 ![image](https://github.com/kchen3490/AOOD-RPG/assets/78284992/469df601-3ce9-43ed-95ed-6fbd1d656022)
 ![image](https://github.com/kchen3490/AOOD-RPG/assets/78284992/9fb87851-8439-4062-ab54-6eb924f24194)
+![image](https://github.com/kchen3490/AOOD-RPG/assets/78284992/976f3779-ccc7-4ed1-8300-9ab293ccffc2)
