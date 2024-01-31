@@ -1,6 +1,6 @@
-# Take down the plane!
+# Take down the plane
 
-Welcome to "Take down the plane!" by Weijie Ye and Kai Chen!
+Welcome to "Take down the plane" by Weijie Ye and Kai Chen!
 
 We utilized the Java Swing library to create a mouse-based clicking application for our Java-based computer science class on advanced object oriented design. We started this project together in 2022 from March 24th to May 15th.
 
